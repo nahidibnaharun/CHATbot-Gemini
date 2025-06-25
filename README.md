@@ -10,11 +10,6 @@ This bot responds in real-time based on user input with a clean frontend and bas
 
 ---
 
-## 📸 Screenshot  
-<img src="https://your-screenshot-link.com" width="500"/>  
-*Replace with actual screenshot if available*
-
----
 
 ## ⚙️ Features
 
@@ -65,14 +60,6 @@ Nahid Ibna Harun
 
 🧠 "Built for fun, improved for learning."
 
-yaml
-Copy
-Edit
 
----
 
-### ✅ Optional:
-- Add a screenshot (`screenshot.png`) to your repo and update the `README` image link
-- Push this file as `README.md`
 
-Let me know if you want help writing READMEs for any other projects (like `landsat-data-viewer` or `Movi
